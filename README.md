@@ -1,4 +1,4 @@
-# Analizador de Proyectos Java — V3 Profesional
+# Analizador de Proyectos Java
 
 Agente de IA que analiza proyectos Java y genera tres reportes automáticos: uno ejecutivo, uno técnico y uno de APIs con ejemplos JSON reales.
 
